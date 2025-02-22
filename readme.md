@@ -81,6 +81,4 @@ npm run format
 ## Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat file *LICENSE* untuk detailnya.
 
----
-
-Dengan markdown ini, semua informasi terkait proyek, seperti instalasi, skrip yang tersedia, struktur direktori, dan konfigurasi, disampaikan dalam bahasa Indonesia. Anda dapat mengganti placeholder seperti `username-anda` dan `profil-anda` dengan data pribadi Anda.
+Terimakasih telah mengunjungi repo saya yang tidak seberapa ini😁.
