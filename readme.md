@@ -43,8 +43,6 @@ express-ts-prisma/
 
 ---
 
-Sekarang, struktur folder tersebut lebih jelas dan terstruktur dengan rapi menggunakan format markdown yang tepat. Anda dapat menyalin dan menempelkannya dalam dokumen **`README.md`** Anda.
-
 ## Database dengan Prisma
 
 Proyek ini menggunakan **Prisma ORM** untuk interaksi dengan basis data.
